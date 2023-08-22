@@ -1,4 +1,4 @@
-# I Desire To Receive Software Developer Immortality.
+# Callisto Quick Access Links Portal // ShinobiNet
 
 In this repository will find the callisto quick access portal, written in html.
 
