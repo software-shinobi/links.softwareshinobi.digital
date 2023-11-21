@@ -1,10 +1,10 @@
-# Link Portal / Software Shinobi
+# link portal / software shinobi
 
 In this repository will find a link portal for software shinobi.
 
 ![Software Shinobi Links](/.cover-image.png)
 
-## About This Repository
+## about this repository
 
 this is a bunch of links for all the software shinobi stuff on the internet.
 
@@ -18,4 +18,4 @@ w/ lots of love,
 
 Software Shinobi
 
-## Namaste.
+## namaste.
