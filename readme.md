@@ -2,13 +2,15 @@
 
 In this repository will find a link portal for software shinobi.
 
-![Software Shinobi Links](/.cover-image.png)
+![Software Shinobi Links](/docs/.cover-image.png)
 
 ## about this repository
 
 this is a bunch of links for all the software shinobi stuff on the internet.
 
 knock yourself out clicking stuff.
+
+https://links.softwareshinobi.digital
 
 ## ciao
 
