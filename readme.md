@@ -2,7 +2,7 @@
 
 In this repository will find a link portal for software shinobi.
 
-![Software Shinobi Links](/docs/.cover-image.png)
+![Software Shinobi Links](/docs/cover.png)
 
 ## about this repository
 
