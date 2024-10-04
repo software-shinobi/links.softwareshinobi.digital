@@ -2,7 +2,7 @@
 
 In this repository will find a link portal for software shinobi.
 
-![Software Shinobi Links](/docs/cover.png)
+![Software Shinobi Links](cover.png)
 
 ## about this repository
 
@@ -13,3 +13,4 @@ knock yourself out clicking stuff.
 <a href="https://links.softwareshinobi.digital">my links</a>
 
 ## namaste.
+
