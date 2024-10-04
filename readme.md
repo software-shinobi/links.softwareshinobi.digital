@@ -10,14 +10,6 @@ this is a bunch of links for all the software shinobi stuff on the internet.
 
 knock yourself out clicking stuff.
 
-https://links.softwareshinobi.digital
-
-## ciao
-
-From my universe to yours.
-
-w/ lots of love,
-
-Software Shinobi
+<a href="https://links.softwareshinobi.digital">my links</a>
 
 ## namaste.

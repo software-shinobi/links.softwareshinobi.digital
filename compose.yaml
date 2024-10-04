@@ -1,0 +1,18 @@
+services:
+
+    links.softwareshinobi.digital:
+
+        container_name: links.softwareshinobi.digital
+
+        image: softwareshinobi/software-shinobi-links-web
+
+        build: 
+
+            context: .
+
+            dockerfile: Dockerfile
+
+        ports:
+
+            - 8888:80
+
